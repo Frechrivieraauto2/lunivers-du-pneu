@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f8f8f8;
+    color: #333;
+}
+header {
+    background: #111;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+.cta {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: red;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    padding: 30px 20px;
+    background: white;
+    margin: 10px auto;
+    max-width: 1000px;
+}
+.service {
+    margin-bottom: 20px;
+}
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
